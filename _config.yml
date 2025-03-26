@@ -1,11 +1,11 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: https://BLCUcode4U.github.io
 url: https://BLCUcode4U.github.io
 date_format: "ordinal"
 title: BLCUcode4U
-subtitle: "北语信科2404班志"
+subtitle: "北语信科 2404班志"
 description: "BLCU 4班 班级网站"
 keywords: BLCU, 2404, 北语信科2404, BLCUcode4U
 timezone: Asia/Beijing
@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2025
 # 源码仓库，请替换成自己的
-repository: BLCUcode4u/BlCUcode4U.github.io
+repository: BLCUcode4U/BlCUcode4U.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
