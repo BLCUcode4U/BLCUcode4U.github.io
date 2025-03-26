@@ -1,15 +1,11 @@
 - sitename: GitHub
-  name: NOS-CC
-  url: https://github.com/NOS-CC
+  name: BLCUcode4U
+  url: https://github.com/BLCUcode4U
 
-- sitename: Steam
-  name: 奈欧斯
-  url: https://steamcommunity.com/profiles/76561198828161549/
+- sitename: Blog
+  name: BLCUcode4U
+  url: https://BLCUcode4U.github.io
 
-- sitename: 博客
-  name: 个人博客测试
-  url: http://NOS-CC.github.io
-
-- sitename: 哔哩哔哩
-  name: 一只奈欧斯
-  url: https://space.bilibili.com/33369800
+- sitename: Wechat
+  name: BLCUcode4U
+  url: 404.cn
