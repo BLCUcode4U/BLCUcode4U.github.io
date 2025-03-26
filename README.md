@@ -5,4 +5,4 @@
 
    
 ## 联系我
-<img width="192px" height="192px" src="https://github.com/BLCUcode4U/BLCUcode4U.github.io/assets/images/qrcode.jpg"/>
+<img width="192px" height="192px" src="/assets/images/qrcode.jpg"/>
