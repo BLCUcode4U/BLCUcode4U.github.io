@@ -184,10 +184,10 @@ comments_provider: giscus
 #    repo: mzlogin/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: NOS-CC/NOS-CC.github.io
-    repo-id: R_kgDOOASOAw
+    repo: BLCUcode4U/BLCUcode4U.github.io
+    repo-id: R_kgDOOO_tWg
     category: Announcements
-    category-id: DIC_kwDOOASOA84CnYtS
+    category-id: DIC_kwDOOO_tWs4CoeYz
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
