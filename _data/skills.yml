@@ -1,16 +1,3 @@
-- name: Software Engineer Keywords
+- name: visited place
   keywords:
-      - C
-      - C++
-      - Python
-      - HTML
-      - CSS
-
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Apple
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
+      - 自然博物馆
