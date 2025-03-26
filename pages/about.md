@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: CC
+description: OTAKU SAVE THE WORLD
+keywords: BLCUcode4U
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-The cake is a lie!
+Looking our eyes, tell us! Tell us why！
 
 ## 联系
 
@@ -19,7 +19,7 @@ The cake is a lie!
 {% if site.url contains 'mazhuang.org' %}
 <li>
 微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="CC" />
+<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="BLCUcode4U" />
 </li>
 {% endif %}
 </ul>
