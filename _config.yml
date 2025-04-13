@@ -81,19 +81,19 @@ navs:
     label: 归档
     mobile-hidden: true
 
-  -
-    href: /open-source/
-    label: 开源
-    hidden: true
+#  -
+#    href: /open-source/
+#    label: 开源
+#    mobile-hidden: true
 
   -
     href: /fragments/
     label: 片段
 
-  -
-    href: /wiki/
-    label: 维基
-    hidden: true
+#  -
+#    href: /wiki/
+#    label: 维基
+    
   -
     href: /links/
     label: 链接
