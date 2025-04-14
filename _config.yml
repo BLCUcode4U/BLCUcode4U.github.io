@@ -94,10 +94,10 @@ navs:
 #    href: /wiki/
 #    label: 维基
     
-  -
-    href: /links/
-    label: 链接
-    mobile-hidden: true
+#  -
+#    href: /links/
+#    label: 链接
+#    mobile-hidden: true
 
   -
     href: /about/
@@ -120,7 +120,7 @@ index:
         # 首页 banner 区背景颜色
         # background-color: "#4183c4"
         # 首页 banner 区背景图片
-        background-image: "/assets/images/blog/班旗.jpg"
+        background-image: "/images/blog/班旗.jpg"
         background-repeat: "no-repeat"
         background-size: "cover"
 
