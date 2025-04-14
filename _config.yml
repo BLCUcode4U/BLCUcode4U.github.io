@@ -121,8 +121,8 @@ index:
         # background-color: "#4183c4"
         # 首页 banner 区背景图片
         background-image: "/assets/images/blog/班旗.jpg"
-        # background-repeat: "no-repeat"
-        # background-size: "cover"
+        background-repeat: "no-repeat"
+        background-size: "cover"
 
 # ---------------- #
 #      Jekyll      #
