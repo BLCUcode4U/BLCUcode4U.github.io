@@ -25,7 +25,7 @@ Looking our eyes, tell us! Tell us why！
 </ul>
 
 
-## Skill Keywords
+## Keywords
 
 {% for skill in site.data.skills %}
 ### {{ skill.name }}
