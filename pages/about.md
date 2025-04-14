@@ -10,7 +10,7 @@ permalink: /about/
 
 Looking our eyes, tell us! Tell us why！
 
-## 联系
+## 这里也可以找到我们哟~
 
 <ul>
 {% for website in site.data.social %}
