@@ -41,7 +41,7 @@ Looking our eyes, tell us! Tell us why！
 .photo-wall {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  background: gray;
+  background: lightgray;
   border: 10px solid gray;
   gap: 10px;
 }
@@ -62,8 +62,8 @@ Looking our eyes, tell us! Tell us why！
   <img src="../assets/images/our_photos/25328-2.jpg">
   <img src="../assets/images/our_photos/25328-3.jpg">
   <img src="../assets/images/our_photos/25328-4.jpg">
-  <img src="../assets/images/our_photos/25328-5.jpg">
   <img src="../assets/images/our_photos/25328-6.jpg">
+  <img src="../assets/images/our_photos/25328-5.jpg">
   <img src="../assets/images/our_photos/25328-7.jpg">
   <img src="../assets/images/our_photos/25328-8.jpg">
   <img src="../assets/images/our_photos/25328-9.jpg">
