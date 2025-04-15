@@ -35,3 +35,42 @@ Looking our eyes, tell us! Tell us why！
 {% endfor %}
 </div>
 {% endfor %}
+
+## 照片墙
+<style>
+.photo-wall {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  background: #000;
+  border: 10px solid black;
+  gap: 10px;
+}
+
+.photo-wall img {
+  width: 100%;
+  height: auto;
+  border: 6px solid white;
+}
+</style>
+<!-- 在以下的 div 中添加 img 即可在照片墙中添加内容 -->
+<div class="photo-wall">
+  <img src="assets/images/our_photos/25317-1.jpg">
+  <img src="assets/images/our_photos/25317-2.jpg">
+  <img src="assets/images/our_photos/25324-1.jpg">
+  <img src="assets/images/our_photos/25324-2.jpg">
+  <img src="assets/images/our_photos/25328-1.jpg">
+  <img src="assets/images/our_photos/25328-2.jpg">
+  <img src="assets/images/our_photos/25328-3.jpg">
+  <img src="assets/images/our_photos/25328-4.jpg">
+  <img src="assets/images/our_photos/25328-5.jpg">
+  <img src="assets/images/our_photos/25328-6.jpg">
+  <img src="assets/images/our_photos/25328-7.jpg">
+  <img src="assets/images/our_photos/25328-8.jpg">
+  <img src="assets/images/our_photos/25328-9.jpg">
+  <img src="assets/images/our_photos/25328-10.jpg">
+  <img src="assets/images/our_photos/25328-11.jpg">
+  <img src="assets/images/our_photos/25412-1.jpg">
+  <img src="assets/images/our_photos/25412-2.jpg">
+  <img src="assets/images/our_photos/25412-3.jpg">
+</div>
+
