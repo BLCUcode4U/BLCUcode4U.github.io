@@ -41,8 +41,8 @@ Looking our eyes, tell us! Tell us why！
 .photo-wall {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  background: #000;
-  border: 10px solid black;
+  background: gray;
+  border: 10px solid gray;
   gap: 10px;
 }
 
@@ -56,21 +56,21 @@ Looking our eyes, tell us! Tell us why！
 <div class="photo-wall">
   <img src="../assets/images/our_photos/25317-1.jpg">
   <img src="../assets/images/our_photos/25317-2.jpg">
-  <img src="assets/images/our_photos/25324-1.jpg">
-  <img src="assets/images/our_photos/25324-2.jpg">
-  <img src="assets/images/our_photos/25328-1.jpg">
-  <img src="assets/images/our_photos/25328-2.jpg">
-  <img src="assets/images/our_photos/25328-3.jpg">
-  <img src="assets/images/our_photos/25328-4.jpg">
-  <img src="assets/images/our_photos/25328-5.jpg">
-  <img src="assets/images/our_photos/25328-6.jpg">
-  <img src="assets/images/our_photos/25328-7.jpg">
-  <img src="assets/images/our_photos/25328-8.jpg">
-  <img src="assets/images/our_photos/25328-9.jpg">
-  <img src="assets/images/our_photos/25328-10.jpg">
-  <img src="assets/images/our_photos/25328-11.jpg">
-  <img src="assets/images/our_photos/25412-1.jpg">
-  <img src="assets/images/our_photos/25412-2.jpg">
-  <img src="assets/images/our_photos/25412-3.jpg">
+  <img src="../assets/images/our_photos/25324-1.jpg">
+  <img src="../assets/images/our_photos/25324-2.jpg">
+  <img src="../assets/images/our_photos/25328-1.jpg">
+  <img src="../assets/images/our_photos/25328-2.jpg">
+  <img src="../assets/images/our_photos/25328-3.jpg">
+  <img src="../assets/images/our_photos/25328-4.jpg">
+  <img src="../assets/images/our_photos/25328-5.jpg">
+  <img src="../assets/images/our_photos/25328-6.jpg">
+  <img src="../assets/images/our_photos/25328-7.jpg">
+  <img src="../assets/images/our_photos/25328-8.jpg">
+  <img src="../assets/images/our_photos/25328-9.jpg">
+  <img src="../assets/images/our_photos/25328-10.jpg">
+  <img src="../assets/images/our_photos/25328-11.jpg">
+  <img src="../assets/images/our_photos/25412-1.jpg">
+  <img src="../assets/images/our_photos/25412-2.jpg">
+  <img src="../assets/images/our_photos/25412-3.jpg">
 </div>
 
