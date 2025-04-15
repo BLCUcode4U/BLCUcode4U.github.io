@@ -42,7 +42,7 @@ Looking our eyes, tell us! Tell us why！
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   background: lightgray;
-  border: 10px solid gray;
+  border: 10px solid lightgray;
   gap: 10px;
 }
 
