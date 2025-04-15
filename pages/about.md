@@ -54,8 +54,8 @@ Looking our eyes, tell us! Tell us why！
 </style>
 <!-- 在以下的 div 中添加 img 即可在照片墙中添加内容 -->
 <div class="photo-wall">
-  <img src="assets/images/our_photos/25317-1.jpg">
-  <img src="assets/images/our_photos/25317-2.jpg">
+  <img src="/assets/images/our_photos/25317-1.jpg">
+  <img src="{{ site.url }}/assets/images/our_photos/25317-2.jpg">
   <img src="assets/images/our_photos/25324-1.jpg">
   <img src="assets/images/our_photos/25324-2.jpg">
   <img src="assets/images/our_photos/25328-1.jpg">
