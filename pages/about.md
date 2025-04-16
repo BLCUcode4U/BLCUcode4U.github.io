@@ -10,7 +10,7 @@ permalink: /about/
 
 Looking our eyes, tell us! Tell us why！
 
-## 这里也可以找到我们哟~
+## 这里也可以找到我们~
 
 <ul>
 {% for website in site.data.social %}
@@ -36,13 +36,14 @@ Looking our eyes, tell us! Tell us why！
 </div>
 {% endfor %}
 
-## 照片墙
+## Photo Wall
 <style>
 .photo-wall {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   background: lightgray;
-  border: 10px solid lightgray;
+  padding: 9px;
+  border: 1px solid lightgray;
   gap: 10px;
 }
 
@@ -50,6 +51,7 @@ Looking our eyes, tell us! Tell us why！
   width: 100%;
   height: auto;
   border: 6px solid white;
+  box-shadow:2px 2px 2px 2px gray;
 }
 </style>
 <!-- 在以下的 div 中添加 img 即可在照片墙中添加内容 -->
@@ -72,5 +74,6 @@ Looking our eyes, tell us! Tell us why！
   <img src="../assets/images/our_photos/25412-1.jpg">
   <img src="../assets/images/our_photos/25412-2.jpg">
   <img src="../assets/images/our_photos/25412-3.jpg">
+  <img src="../assets/images/our_photos/25412-4.jpg">
 </div>
 
